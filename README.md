@@ -1,0 +1,2 @@
+The application is a course management data panel, which allows for the creation, modification and or deletion of courses. The technology for the client is using EXTJS, which is a JavaScript library for creating powerful web applications. The data is loaded through an Ajax call, which fetches a JSON export of the courses.
+The application uses a PHP class, which is used to instantiate a course object when either being retrieved, updated or inserted.
